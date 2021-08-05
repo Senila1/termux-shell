@@ -5,14 +5,14 @@ command_not_found_handle() {
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 
 clear
-echo -e "Created By \e[5mHTR-TECH"
+echo -e "Created by hack senila"
 echo "----------------------------" | lolcat
-echo -e "\e[1mInstagram :@ tahmid.rayat"
-echo -e "\e[1mGithub: github.com/htr-tech/"
+echo -e 
+echo -e "senila hack" 
 echo "----------------------------" | lolcat
 echo "
-+-+-+-+-+-+-+-+
-|W|e|l|c|o|m|e|
-+-+-+-+-+-+-+-+ " | lolcat
++-+-+-+-+-+-+-+-+
+|H|a|c|k|S|e|n|i|
++-+-+-+-+-+-+-+-+ " | lolcat
 date | lolcat
 echo ""
